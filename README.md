@@ -1,4 +1,4 @@
-This project created for Akakce. 
+This project is created for Akakce. 
 
 ## Development
 
